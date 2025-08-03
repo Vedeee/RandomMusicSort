@@ -10,6 +10,14 @@
 ## RMS
 RMS - a simple program designed to sort your audio files in alphabetical or random order by format you input
 
-## In name
+## Supported formats
 
-## In metafata
+## Random
+
+## Variants of sort
+
+### In name
+
+### In metafata
+
+## Clear
