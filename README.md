@@ -1,3 +1,5 @@
+# Localization
+en / [ru](../README.ru.md)
 # Table of Contents
 - [RMS](#rms)
 - [Supported formats](#supported-formats)
