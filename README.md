@@ -71,7 +71,3 @@ Now RMS supports only russian language, it is planned to add English language su
    2. Нет
 	Хотите очистить? 1
 	```
-1. First you need is execute rms.py from terminal
-``` python
-python rms.py
-```
