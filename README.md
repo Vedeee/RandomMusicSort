@@ -40,4 +40,6 @@ After sorting, you can clear the changed fields of the file (name and/or metadat
 Now RMS supports only russian language, it is planned to add English language support in the near future.
 
 1. First you need is execute rms.py from terminal
-   ```python rms.py```
+``` python
+python rms.py
+```
