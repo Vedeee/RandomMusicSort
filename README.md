@@ -7,7 +7,7 @@ en / [ru](README.ru.md)
 - [Random](#random)
 - [Variants of sort](#variants-of-sort)
 	- [In name](#in-name)
-	- [In metafata](#in-metadata)
+	- [In metadata](#in-metadata)
 - [Clear](#clear)
 - [Using](#using)
 
@@ -33,7 +33,7 @@ RMS has a random audio file sorting feature. When this function is selected, the
 
 ### In name
 This type of sorting involves changing the file name alphabetically (in standard mode) or randomly (by selecting the appropriate function)
-### In metafata
+### In metadata
 This type of sorting involves changing the metadata of the file by changing the track number in alphabetical order (in standard mode) or in random order (by selecting the appropriate function)
 ## Clear
 After sorting, you can clear the changed fields of the file (name and/or metadata)
